@@ -6,7 +6,7 @@
 
 ---
 
-## My Current Tech Stack
+## My Current Tech Stack 💻
 
 
 <!--
