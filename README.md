@@ -1,6 +1,6 @@
 ![Luis Ceballos Github Banner](img/GitHub_Banner.png)
 
-# 👋🏽 Hi, Im Luis!
+## 👋🏽 Hi, Im Luis!
 
 
 
