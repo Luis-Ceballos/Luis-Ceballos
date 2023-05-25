@@ -14,14 +14,12 @@
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white)
 
-
-
 ---
 
 ## 🧠 Im Currently Learning
+**C++** - To build reliable and efficient information security tools
 
-
-
+**Rust** - To build performance-cristical embeded applications 
 
 ---
 
