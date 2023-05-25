@@ -1,4 +1,4 @@
-![Luis Ceballos Github Banner](GitHub_Banner.png)
+![Luis Ceballos Github Banner](img/GitHub_Banner.png)
 
 # Hi, Im Luis! 👋🏽
 
