@@ -1,26 +1,26 @@
 ![Luis Ceballos Github Banner](img/GitHub_Banner.png)
 
-# Hi, Im Luis! 👋🏽
+# 👋🏽 Hi, Im Luis!
 
 
 
 ---
 
-## My Current Tech Stack 💻
-
-
-
-
----
-
-## Im Currently Learning 🧠
+## 💻 My Current Tech Stack
 
 
 
 
 ---
 
-## Let's Connect! 🔗
+## 🧠 Im Currently Learning
+
+
+
+
+---
+
+## 🔗 Let's Connect!
 
 
 
