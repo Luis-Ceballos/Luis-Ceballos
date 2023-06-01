@@ -19,7 +19,7 @@
 ## 🧠 Im Currently Learning
 **C++** - To build reliable and efficient information security tools
 
-**Rust** - To build performance-cristical embeded applications 
+**Rust** - To build performance-critical embeded applications 
 
 ---
 
