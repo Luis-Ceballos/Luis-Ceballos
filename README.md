@@ -4,6 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Cybersecurity Engineer and Full Stack Developer
 -----------------------------------------------
 
+Im a Cybersecurity Student at Cal Poly Pomona. Passionate about Computer Science, Information Security, and Aerospace. Aspiring to make our digital world safer. 🚀
+
 *   🌍  I'm based in California, United States
 *   🖥️  See my portfolio at [My Portfolio](http://luis-ceballos.github.io)
 *   ✉️  You can contact me at [lceballos@protonmail.com](mailto:lceballos@protonmail.com)
