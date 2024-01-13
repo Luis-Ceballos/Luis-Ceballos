@@ -32,5 +32,5 @@ Im a Cybersecurity Student at Cal Poly Pomona. Passionate about Computer Science
 
 ### Stats
 
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=luis-ceballos&theme=blue-green)
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=luis-ceballos&theme=onedark)
 
